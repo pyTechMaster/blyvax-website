@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blyvax.com/sitemap.xml
+Sitemap: https://blyvax-website.onrender.com/sitemap.xml

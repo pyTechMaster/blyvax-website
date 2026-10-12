@@ -5,7 +5,7 @@
    nothing loads and the cookie banner is not shown. */
 (function(){
   var GA_ID = 'G-D0XDEYH4FL';       // <-- paste Google Analytics Measurement ID here
-  var CLARITY_ID = '';  // <-- paste Microsoft Clarity Project ID here
+  var CLARITY_ID = 'ywhqmbbhvq';  // <-- paste Microsoft Clarity Project ID here
 
   var KEY='devox-consent', loaded=false;
   var get=function(){try{return localStorage.getItem(KEY)}catch(e){return null}};
